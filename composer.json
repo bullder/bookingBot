@@ -1,0 +1,7 @@
+{
+    "require": {
+        "lesstif/php-jira-rest-client": "^1.43",
+        "gnello/php-mattermost-driver": "^2.9",
+        "vlucas/phpdotenv": "^3.0"
+    }
+}
